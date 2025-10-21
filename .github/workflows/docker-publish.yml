@@ -42,4 +42,4 @@ jobs:
             exit 1
           fi
           echo "QR generated successfully"
-          ls -l qr_test.png
+          ls -l qr_test.png
